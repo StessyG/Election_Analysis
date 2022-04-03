@@ -59,7 +59,7 @@ Tools Used: Python and Microsoft Excel
 - The candidate who won the election is Diana DeGette with 73.8% of votes, and 272,892 votes.
 
 
-# Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+# Election-Audit Summary: 
 
 To perform this analysis, the goal was to determine the winning candidate first. Furthermore, the election commission requested an analysis to determine the largest county turnout. 
 The script used in this analysis can be used in any similar analysis. Had it been a federal election, the script can still be brought into play to determine the winner of the election.
