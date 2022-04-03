@@ -30,7 +30,7 @@ The candidates results were:
  3. Raymon Anthony Doane: 3.1% (11,606)
  
  And the winner of the election was: Diana DeGette
-
+![winner](https://github.com/StessyG/Election_Analysis/blob/bef9f9fd8336aefbd8d636ba06f0445a20b2e810/Resources/images/winner.png)
 
 # Overview of Election Audit:
 
@@ -45,19 +45,24 @@ Tools Used: Python and Microsoft Excel
 # Election-Audit Results: 
 
 - The total number of votes in this congressional election was 369, 711
-
+![totalvotes](https://github.com/StessyG/Election_Analysis/blob/bef9f9fd8336aefbd8d636ba06f0445a20b2e810/Resources/images/totalvotes.png)
 
 - The number of votes and the percentage of total votes for each county in the precinct
+
+![countyvotes](https://github.com/StessyG/Election_Analysis/blob/bef9f9fd8336aefbd8d636ba06f0445a20b2e810/Resources/images/countyvotes.png)
 
 
 - The county with the largest number of votes is Denver
 
+![largest_county_turnout](https://github.com/StessyG/Election_Analysis/blob/bef9f9fd8336aefbd8d636ba06f0445a20b2e810/Resources/images/largestcountturnout.png)
 
 - The number of votes and the percentage of the total votes each candidate received
 
+![candidates](https://github.com/StessyG/Election_Analysis/blob/bef9f9fd8336aefbd8d636ba06f0445a20b2e810/Resources/images/candidates.png)
 
 - The candidate who won the election is Diana DeGette with 73.8% of votes, and 272,892 votes.
 
+![winner](https://github.com/StessyG/Election_Analysis/blob/bef9f9fd8336aefbd8d636ba06f0445a20b2e810/Resources/images/winner.png)
 
 # Election-Audit Summary: 
 
