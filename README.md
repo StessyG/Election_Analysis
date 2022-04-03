@@ -32,3 +32,38 @@ The candidates results were:
  And the winner of the election was: Diana DeGette
 
 
+# Overview of Election Audit:
+
+The purpose of this analysis is to further analyse the election results and perform  an audit analysis for the election commission. 
+The main focus during this analysis was to answer the following questions:
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+Tools Used: Python and Microsoft Excel
+
+# Election-Audit Results: 
+
+- The total number of votes in this congressional election was 369, 711
+
+
+- The number of votes and the percentage of total votes for each county in the precinct
+
+
+- The county with the largest number of votes is Denver
+
+
+- The number of votes and the percentage of the total votes each candidate received
+
+
+- The candidate who won the election is Diana DeGette with 73.8% of votes, and 272,892 votes.
+
+
+# Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+To perform this analysis, the goal was to determine the winning candidate first. Furthermore, the election commission requested an analysis to determine the largest county turnout. 
+The script used in this analysis can be used in any similar analysis. Had it been a federal election, the script can still be brought into play to determine the winner of the election.
+To apply the script in other elections, the counties can be substitued by cities or states.
+
+
+
